@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**DarkPro1337/darkpro1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 21 y.o. • .NET fan • Godot Engine enthusiast • Translating things from English to Russian • Videomaker
 
-Here are some ideas to get you started:
+Currently working on remaking old good card mini-game from Might and Magic series called – [**Arcomage**](https://github.com/DarkPro1337/arcomage).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Avalible guides** (In Russian): [Discord Webhooks](https://darkpro1337.github.io/discord-webhooks) • [GML Guide](https://darkpro1337.github.io/gml-guide/)
+
+### Contact with me:
+* [Telegram](https://t.me/DarkPro1337)
+* [Twitter](https://twitter.com/DarkPro1337)
+
+### Support me:
+* [Buy me a Coffee](https://www.buymeacoffee.com/darkpro1337)
+* [Ko-fi](https://ko-fi.com/darkpro1337)
+* [Patreon](https://www.patreon.com/darkpro1337)
