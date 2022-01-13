@@ -2,8 +2,6 @@
 
 #### 21 y.o. • .NET fan • Godot Engine enthusiast • Translating things from English to Russian • Videomaker
 
-#### [I'm open for hiring!](CV.pdf)
-
 Currently working on remaking old good card mini-game from Might and Magic series called – [**Arcomage**](https://github.com/DarkPro1337/arcomage).
 
 **Avalible guides** (In Russian): [Discord Webhooks](https://darkpro1337.github.io/discord-webhooks) • [GML Guide](https://darkpro1337.github.io/gml-guide/)
