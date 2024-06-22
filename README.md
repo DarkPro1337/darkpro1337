@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 23 y.o. • .NET fan • Godot Engine enthusiast • Translating things • Videomaker
+#### 24 y.o. • .NET fan • Godot Engine enthusiast • Translating things • Videomaker
 
 Currently working on remaking an old good card mini-game from Might and Magic series called – [**Arcomage**](https://github.com/DarkPro1337/arcomage).
 
