@@ -1,4 +1,5 @@
-### Hi there 👋
+### Oh, Hello There! 👋
+![Shrek Oh Hello There](https://i.imgur.com/FQiAEky.gif)
 
 #### 24 y.o. • .NET fan • Godot Engine enthusiast • Translating things • Videomaker
 
