@@ -1,7 +1,7 @@
 ### Oh, Hello There! 👋
 ![Shrek Oh Hello There](https://i.imgur.com/FQiAEky.gif)
 
-#### 25 y.o. • .NET fan • Godot Engine enthusiast • Translating things • Videomaker
+#### .NET fan • Godot Engine enthusiast • Translating things • Videomaker
 
 Currently working on remaking an old good card mini-game from Might and Magic series called – [**Arcomage**](https://github.com/DarkPro1337/arcomage).
 
