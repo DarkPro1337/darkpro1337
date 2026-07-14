@@ -1,8 +1,11 @@
-### Oh, Hello There! 👋
-![Shrek Oh Hello There](https://i.imgur.com/FQiAEky.gif)
+# Oh, hello there! 👋
+![Shrek saying “Oh, hello there”](https://i.imgur.com/FQiAEky.gif)
 
-#### .NET fan • Godot Engine enthusiast • Translating things • Videomaker
+I'm **Artem Chernykh**, a C#/.NET developer based in Yerevan, Armenia.
 
-Currently working on remaking an old good card mini-game from Might and Magic series called – [**Arcomage**](https://github.com/DarkPro1337/arcomage).
+I build desktop applications, backend services, developer tools, and workflow automation. My main areas of interest are **.NET**, **WPF**, **Avalonia UI**, **ASP.NET Core**, and **Godot Engine .NET**.
 
-**Avalible guides** (In Russian): [Discord Webhooks](https://darkpro1337.github.io/discord-webhooks) • [GML Guide](https://darkpro1337.github.io/gml-guide/)
+## Guides and translations
+I occasionally translate technical guides from English into Russian:
+* [Discord Webhooks Guide](https://darkpro1337.github.io/discord-webhooks/)
+* [GameMaker Language Guide](https://darkpro1337.github.io/gml-guide/)
